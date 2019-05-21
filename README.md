@@ -1,6 +1,6 @@
 # todolist
 
-Criação de um app to do lista utilizando flutter 
+Criação de um app to do list utilizando flutter 
 
 ## Getting Started
 
